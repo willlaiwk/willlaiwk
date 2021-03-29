@@ -1,1 +1,2 @@
-# Hi, there. Welcome to my Github!
+# Hi, I'm Will 👋
+`I'm a frontend developer`
